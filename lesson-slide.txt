@@ -1,0 +1,14 @@
+Lesson Title: Newton’s Laws of Motion
+
+Objective:
+Help students understand and apply Newton’s First, Second, and Third Laws of Motion.
+
+Content:
+1. Newton’s First Law – Law of Inertia
+2. Newton’s Second Law – F = ma
+3. Newton’s Third Law – Action and Reaction Forces
+
+Examples:
+- Pushing a stationary object
+- Calculating force for a given mass and acceleration
+- Action-reaction in walking, jumping, and rocket launches
